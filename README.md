@@ -1,4 +1,4 @@
-## Ruby年表(1993-2017)
+# Ruby年表(1993-2017)
 
 * 1993/02/24 まつもとゆきひろ氏と石塚圭樹氏のチャットで「Ruby」と命名 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/5173 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/15977
 * 1994/12 Itojun氏提供のMLとFTPサーバによりクローズドα版を配布 http://www.rubyist.net/~matz/20071031.html
