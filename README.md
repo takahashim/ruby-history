@@ -73,7 +73,7 @@
 
 * 2010/03/23 Sinatra 1.0 released https://mag.osdn.jp/10/03/26/036220
 * 2010/03/23 gemの配信が rubygems.org に移行 https://www.infoq.com/jp/news/2010/04/rubygems
-* 2010/04/25 Ruby Conference Taiwan 2010
+* 2010/04/25 Ruby Conference Taiwan 2010 https://rubyconf.tw/2010/
 * 2010/05/14 Rubinius 1.0 https://mag.osdn.jp/10/05/17/1023200
 * 2010/06/17 unicorn 1.0.0 https://bogomips.org/unicorn-public/AANLkTil-pO4my3h6POO1XGd2nghbBwE0A1BtqClJNYUR@mail.gmail.com/T/#m2747b10ae43d3b75bddc0b8f4accfb59eeaac1bf
 * 2010/08/22 Redmine 1.0.1 (1.0初の安定版) released http://www.redmine.org/news/43
@@ -83,7 +83,7 @@
 * 2010/11/26-27 RailsGirls in Helsinki http://railsgirls.com/press_en.html
 * 2011/03/22 JIS X 3017 プログラム言語Ruby http://itpro.nikkeibp.co.jp/article/NEWS/20110322/358568/
 * 2011/04/22-23 RedDot Ruby Conf 2011
-* 2011/07/27 一般財団法人Rubyアソシエーション設立
+* 2011/07/27 一般財団法人Rubyアソシエーション設立 http://www.ruby.or.jp/ja/about/foundation
 * 2011/08 一般社団法人日本Rubyの会設立
 * 2011/08/08-12 島根県青少年の家にてRuby合宿開催 http://www.rubycamp.jp/report/2011-summer.html
 * 2011/11/26 第1回 中高生国際Rubyプログラミングコンテスト in Mitaka開催 https://www.ruby-procon.net/docs/2017072700040/
