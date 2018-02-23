@@ -30,6 +30,7 @@
 * 2000/11/29-12/01 Perl/Ruby Conference http://lc.linux.or.jp/lc2000fall/pr-detail.html
 * 2001/04/21 tDiary誕生 http://sho.tdiary.net/20010421.html#p02
 * 2001/10/12-14 RubyConf 2001 http://www.rubyist.net/~matz/slides/rc2001-a/ http://www.rubyist.net/~matz/slides/rc2001-b/
+* 2001/12/28 初代RubyGems 0.4 https://sourceforge.net/projects/rubygems/files/ http://magazine.rubyist.net/?0006-PackageManagement 
 * 2002/04/10 『たのしいRuby』 https://tanoshiiruby.github.io/1/
 * 2002/11/01-03: RubyConf 2002 http://www.rubyist.net/~matz/slides/rc2002/ https://www.infoq.com/jp/articles/coming-from-ruby
 * 2002/11/09: Lightweight Languages Workshop 2002 (LL2): The Ruby Programming language (invited talk)   http://ll2.ai.mit.edu/
@@ -37,7 +38,7 @@
 * 2003/06/21-22 European Ruby Conference (EuRuKo) 2003開催 https://www.thecodingforums.com/threads/ann-euruko-2003-videos-available-at-ruby-doc-org.810486/
 * 2003/07/22 RubyForge.org released http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/76625
 * 2003/08/04 Ruby 1.8.0 リリース https://www.ruby-lang.org/ja/news/2003/08/04/20030804/
-* 2004/03/14 RubyGems公開 https://github.com/rubygems/rubygems/blob/master/History.txt
+* 2004/03/14 新版RubyGems公開 https://github.com/rubygems/rubygems/blob/master/History.txt
 * 2004/07/25 Rails 0.5.0 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/107370
 * 2004/08/08 日本Rubyの会設立 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/39946
 * 2004/09/10 Rubyist Magazine vol.1 http://magazine.rubyist.net/?0001 https://www.ruby-lang.org/ja/news/2004/09/10/20040910/
