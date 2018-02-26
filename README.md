@@ -121,3 +121,4 @@
 
 * http://metanest.jp/ruby-legends/
 * https://gist.github.com/unak/3038095
+* http://rubyconferences.org/past/
