@@ -24,6 +24,7 @@
 
 ### 2000
 
+* 2000/07 「C Magazine」8月号より「伝授！ 極めよRuby道」連載開始 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/23889 https://www.amazon.co.jp/dp/B00XM7IMK8/
 * 2000/09/19 Ruby 1.6.0 リリース http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/24978
 * 2000/11 まつもとゆきひろ『Rubyデスクトップリファレンス』(オライリー・ジャパン) https://www.oreilly.co.jp/books/4873110238/
 * 2000/11 Dave Thomas and Andy Hunt, "Programming Ruby" https://www.amazon.com/dp/0201710897
