@@ -32,7 +32,7 @@
 * 2000/11/29-12/01 Perl/Ruby Conference http://lc.linux.or.jp/lc2000fall/pr-detail.html
 * 2001/04/21 tDiary誕生 http://sho.tdiary.net/20010421.html#p02
 * 2001/10/12-14 RubyConf 2001 http://www.rubyist.net/~matz/slides/rc2001-a/ http://www.rubyist.net/~matz/slides/rc2001-b/
-* 2001/12/28 初代RubyGems 0.4 https://sourceforge.net/projects/rubygems/files/ http://magazine.rubyist.net/?0006-PackageManagement 
+* 2001/12/28 初代RubyGems 0.4 https://sourceforge.net/projects/rubygems/files/ http://magazine.rubyist.net/?0006-PackageManagement
 * 2002/04/10 『たのしいRuby』 https://tanoshiiruby.github.io/1/
 * 2002/11/01-03: RubyConf 2002 http://www.rubyist.net/~matz/slides/rc2002/ https://www.infoq.com/jp/articles/coming-from-ruby
 * 2002/11/09: Lightweight Languages Workshop 2002 (LL2): The Ruby Programming language (invited talk)   http://ll2.ai.mit.edu/
@@ -118,6 +118,7 @@
 * 2017/01/31 mruby/c 1.0 https://github.com/mrubyc/mrubyc/releases/tag/release1.0
 * 2017/12/06 Fluentd 1.0.0 released https://www.fluentd.org/blog/fluentd-v1.0 https://twitter.com/CloudNativeFdn/status/938432717703864320
 * 2017/12/09 Rails Developers Meetup 2017 https://railsdm.github.io/2017/
+* 2017/12/25 Ruby 2.5.0 https://www.ruby-lang.org/ja/news/2017/12/25/ruby-2-5-0-released/
 
 ### 参考文献
 
