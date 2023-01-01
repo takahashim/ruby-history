@@ -1,5 +1,7 @@
 # Ruby年表(1993-2017)
 
+### 1993-
+
 * 1993/02/24 まつもとゆきひろ氏と石塚圭樹氏のチャットで「Ruby」と命名 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/5173 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/15977
 * 1994/12 Itojun氏提供のMLとFTPサーバによりクローズドα版を配布 http://www.rubyist.net/~matz/20071031.html
 * 1995/12/21 ruby 0.95をfj.sourcesにて配布 https://groups.google.com/forum/#!msg/fj.sources/bCc2JimcmAo/ONqCnbyG7LMJ
@@ -22,7 +24,7 @@
 * 1999/10 まつもとゆきひろ、石塚圭樹『オブジェクト指向スクリプト言語Ruby』(アスキー) https://www.amazon.co.jp/dp/4756132545
 * 1999/11/13 セミナー「オブジェクト指向スクリプト言語Ruby」in オープンソースまつり’99 in 秋葉原 http://www.jus.or.jp/matsuri/seminar_ruby.html
 
-### 2000
+### 2000-
 
 * 2000/04 『オープンデザイン』（CQ出版）No.38より「Rubyではじめるインターネットプログラミング」連載開始　http://www.notwork.org/ipr/1st/
 * 2000/07 『C Magazine』（ソフトバンクパブリッシング）8月号より「伝授！ 極めよRuby道」連載開始 http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-list/23889 https://www.amazon.co.jp/dp/B00XM7IMK8/
@@ -72,7 +74,7 @@
 * 2009/09/07-08 RubyWorld Conference 2009 http://itpro.nikkeibp.co.jp/article/COLUMN/20090909/336860/
 * 2009/10/08 githubがgemの配信を終了、gemcutterに移行 https://github.com/blog/515-gem-building-is-defunct
 
-### 2010
+### 2010-
 
 * 2010/03/23 Sinatra 1.0 released https://mag.osdn.jp/10/03/26/036220
 * 2010/03/23 gemの配信が rubygems.org に移行 https://www.infoq.com/jp/news/2010/04/rubygems
@@ -119,6 +121,47 @@
 * 2017/12/06 Fluentd 1.0.0 released https://www.fluentd.org/blog/fluentd-v1.0 https://twitter.com/CloudNativeFdn/status/938432717703864320
 * 2017/12/09 Rails Developers Meetup 2017 https://railsdm.github.io/2017/
 * 2017/12/25 Ruby 2.5.0 https://www.ruby-lang.org/ja/news/2017/12/25/ruby-2-5-0-released/
+* 2018/02/24 Ruby25周年記念イベント開催 http://25.ruby.or.jp/
+* 2018/03/24-25 Rails Developers Meetup 2018
+* 2018/12/19 RubyGems 3.0.0 https://blog.rubygems.org/2018/12/19/3.0.0-released.html
+* 2018/12/25 Ruby 2.6.0 Released https://www.ruby-lang.org/ja/news/2018/12/25/ruby-2-6-0-released/
+* 2019/01/03 Bundler v2.0.0 https://bundler.io/blog/2019/01/03/announcing-bundler-2.html
+* 2019/03/22 Rails Developers Meetup 2019
+* 2019/06/21 mruby/c 2.0 https://www.s-itoc.jp/support/technical-support/mrubyc/mrubyc-report/838
+* 2019/08/15 Rails 6.0.0 Released https://rubyonrails.org/2019/8/15/Rails-6-0-final-release
+* 2019/12/25 Ruby 2.7.0 Released https://www.ruby-lang.org/ja/news/2019/12/25/ruby-2-7-0-released/
+
+### 2020
+
+* 2020/05/05 RailsConf 2020.2 Couch Edition (virtual, recorded) https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
+* 2020/08/21-22 Euruko 2020 -> 2021年に延期 https://twitter.com/euruko/status/1244609527774949377
+* 2020/09/04-05 RubyKaigi Takeout 2020 (virtual) https://rubykaigi.org/2020-takeout/
+* 2020/11/17-19 RubyConf 2020 (virtual)  https://www.youtube.com/playlist?list=PLbHJudTY1K0cyDs1ZwFLzlfQqvkDKt17N
+* 2020/10/03 Kaigi on Rails 2020 STAY HOME Edition (virtual) https://kaigionrails.org/2020/
+* 2020/12/25 Ruby 3.0.0 Released https://www.ruby-lang.org/ja/news/2020/12/25/ruby-3-0-0-released/
+* 2021/03/05 mruby 3.0.0 https://mruby.org/releases/2021/03/05/mruby-3.0.0-released.html
+* 2021/04/12-15 RailsConf 2021 (virtual) https://www.youtube.com/playlist?list=PLbHJudTY1K0c8N1-PPyiQxlHNzJIzyJv6
+* 2021/05/28-29 Euruko 2021 (virtual) https://2021.euruko.org/
+* 2021/09/09-11 RubyKaigi Takeout 2021 https://rubykaigi.org/2021-takeout/
+* 2021/09/22 JRuby 9.3.0.0 Released https://www.jruby.org/2021/09/22/jruby-9-3-0-0.html
+* 2021/10/20 Ruby TogetherがRuby Centralに合流 https://rubycentral.org/news/ruby-together-and-ruby-central--coming-together/
+* 2021/10/22-23 Kaigi on Rails 2021 (virtual) https://kaigionrails.org/2021/
+* 2021/11/08-10 RubyConf 2021 (hybrid) https://www.youtube.com/playlist?list=PLbHJudTY1K0f0oMhWtY-UyzOb7tUlaHps
+* 2021/12/15 Rails 7.0.0 released https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision
+* 2021/12/25 Ruby 3.1.0 released https://www.ruby-lang.org/ja/news/2021/12/25/ruby-3-1-0-released/
+* 2022/05/20 Steep 1.0.0 https://twitter.com/soutaro/status/1527650420650577920
+* 2022/09/06 Rack 3.0.0 https://github.com/rack/rack/blob/3.0.0/CHANGELOG.md
+* 2022/09/08-10 RubyKaigi 2022 https://rubykaigi.org/2022/
+* 2022/10/03 Ruby 3に対応したRuby技術者認定試験の配信を開始 https://www.ruby.or.jp/ja/certification/examination/version3.html
+* 2022/10/13-14 Euruko 2022 (hybrid) https://2022.euruko.org/
+* 2022/10/21-22 Kaigi on Rails 2022 (virtual) https://kaigionrails.org/2022/
+* 2022/11/14 Rails Foundation設立 https://rubyonrails.org/2022/11/14/the-rails-foundation
+* 2022/11/15-17 RubyConf Mini 2022 https://www.rubyconfmini.com/
+* 2022/11/29-12/01 RubyConf 2022 
+* 2022/11/22 Hanami 2.0.0 https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/
+* 2022/12/25 Ruby 3.2.0 released https://www.ruby-lang.org/ja/news/2022/12/25/ruby-3-2-0-released/
+* 2023/01/11-12 RubyConf: Home Edition https://www.rubyconf.org/home-edition
+
 
 ### 参考文献
 
