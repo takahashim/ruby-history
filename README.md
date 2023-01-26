@@ -131,7 +131,7 @@
 * 2019/08/15 Rails 6.0.0 Released https://rubyonrails.org/2019/8/15/Rails-6-0-final-release
 * 2019/12/25 Ruby 2.7.0 Released https://www.ruby-lang.org/ja/news/2019/12/25/ruby-2-7-0-released/
 
-### 2020
+### 2020-
 
 * 2020/05/05 RailsConf 2020.2 Couch Edition (virtual, recorded) https://www.youtube.com/playlist?list=PLE7tQUdRKcyZ-TzxlxdLvh6tDUfZHqm76
 * 2020/08/21-22 Euruko 2020 -> 2021年に延期 https://twitter.com/euruko/status/1244609527774949377
