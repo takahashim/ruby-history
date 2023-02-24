@@ -12,7 +12,7 @@
 * 1997/09/22 Internet Watch誌に「Perlに代わるスクリプト言語？ お手軽オブジェクト指向言語「ruby」」掲載 https://internet.watch.impress.co.jp/www/article/970922/ruby.htm
 * 1997/10 TRY!PC 11月号に「ちょーわかりやすい！Perl & ruby 入門」 https://blade.ruby-lang.org/ruby-list/5050
 * 1997/12/16 オンラインソフトウェア大賞97にRubyが入賞 http://www.nmda.or.jp/enc/fsp/sjis/osp97.html http://www.iajapan.org/osp/osp97.html
-* 1998/01/16 CVS導入 https://blade.ruby-lang.org/ruby-dev/1244 https://svn.ruby-lang.org/cgi-bin/viewvc.cgi?view=revision&revision=2
+* 1998/01/16 CVS導入 https://blade.ruby-lang.org/ruby-dev/1244 https://git.ruby-lang.org/ruby.git/commit/?id=3db12e8b236ac8f88db8eb4690d10e4a3b8dbcd4
 * 1998/02 fj.lang.ruby 開始 https://blade.ruby-lang.org/ruby-list/6404
 * 1998/11/11 Perl Conference JapanでまつもとさんがRubyについて講演 https://www.oreilly.co.jp/pcjp98/workshop.htm
 * 1998/12/24 1.3開発版リリース https://blade.ruby-lang.org/ruby-dev/3962
