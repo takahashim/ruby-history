@@ -36,7 +36,7 @@
 * 2001/10/12-14 RubyConf 2001 http://www.rubyist.net/~matz/slides/rc2001-a/ http://www.rubyist.net/~matz/slides/rc2001-b/
 * 2001/12/28 初代RubyGems 0.4 https://sourceforge.net/projects/rubygems/files/ http://magazine.rubyist.net/?0006-PackageManagement
 * 2002/04/10 『たのしいRuby』 https://tanoshiiruby.github.io/1/
-* 2002/11/01-03: RubyConf 2002 http://www.rubyist.net/~matz/slides/rc2002/ https://www.infoq.com/jp/articles/coming-from-ruby
+* 2002/11/01-03: RubyConf 2002 https://web.archive.org/web/20070704025310/http://www.rubyist.net/~matz/slides/rc2002/  https://www.infoq.com/jp/articles/coming-from-ruby
 * 2002/11/09: Lightweight Languages Workshop 2002 (LL2): The Ruby Programming language (invited talk)   http://ll2.ai.mit.edu/
 * 2003/08/09 LL Saturday http://ll.jus.or.jp/lls2003/
 * 2003/06/21-22 European Ruby Conference (EuRuKo) 2003開催 https://www.thecodingforums.com/threads/ann-euruko-2003-videos-available-at-ruby-doc-org.810486/
