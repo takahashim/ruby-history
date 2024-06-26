@@ -60,7 +60,7 @@
 * 2007/04/21 Gotham Ruby Conference 2007 http://2007.goruco.com/about/
 * 2007/05/18 rspec 1.0.0 http://www.rubyinside.com/rspec-10-released-501.html https://rubygems.org/gems/rspec/versions/1.0.0
 * 2007/06/12 JRuby 1.0 https://web.archive.org/web/20070704022449/http://jruby.codehaus.org:80/
-* 2007/07/27 合同会社Rubyアソシエーション設立 http://www.netlab.jp/news/2007/07/27/RubyAssociation/
+* 2007/07/27 合同会社Rubyアソシエーション設立 https://web.archive.org/web/20071024201026/https://www.netlab.jp/news/2007/07/27/RubyAssociation/
 * 2007/12/07 Rails 2.0 http://weblog.rubyonrails.org/2007/12/7/rails-2-0-it-s-done/
 * 2007/12/26 Ruby 1.9.0 リリース https://www.ruby-lang.org/ja/news/2007/12/25/ruby-1-9-0-release/
 * 2008/04 Rails is moving from SVN to Git http://weblog.rubyonrails.org/2008/4/2/rails-is-moving-from-svn-to-git/
